@@ -9,7 +9,6 @@ class Test {
            for (int j : arr2) {
                 if (i==j) {
                     res.add(i);
-                    continue;
                 }
            } 
         }
